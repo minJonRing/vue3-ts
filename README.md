@@ -200,10 +200,3 @@ Thanks to all the contributors!
 - 感谢 [GitCode](https://gitcode.com/) 官方的 [G-Star](https://gitcode.com/g-star) 认证
   ![](https://foruda.gitee.com/images/1728577513089814203/95f2a70d_716974.jpeg)
 
-## 加群交流
-
-① 关注「有来技术」公众号，点击菜单 **交流群** 获取加群二维码（此举防止广告进群，感谢理解和支持）。
-
-② 直接添加微信 **`haoxianrui`** 备注「前端/后端/全栈」。
-
-![有来技术公众号](https://foruda.gitee.com/images/1737108820762592766/3390ed0d_716974.png)
